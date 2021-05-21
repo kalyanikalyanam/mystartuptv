@@ -1,0 +1,12 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+User-Agent: *
+Disallow: 
+Sitemap: https://mystartuptv.in/sitemap.xml
+
+User-Agent: *
+Disallow: 
+Sitemap: https://mystartuptv.in//sitemap_index.xml
+User-Agent: *
+Disallow: 
+Sitemap: https://mystartuptv.in//sitemap.xml.gz
